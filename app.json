@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "weather",
-    "description": "weather app made by react native",
+    "name": "weather App",
+    "description": "Weather app made by react native",
     "slug": "weather",
     "privacy": "public",
     "sdkVersion": "26.0.0",
